@@ -1,0 +1,9 @@
+Merge the existing summary with the new summary.
+
+Existing:
+{existing}
+
+New:
+{new}
+
+Merged summary:

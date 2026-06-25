@@ -1,0 +1,6 @@
+Based on the following session summaries, create a user profile:
+
+Session summaries:
+{session_summaries}
+
+User profile (under {max_characters} chars):

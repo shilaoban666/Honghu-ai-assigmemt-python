@@ -1,0 +1,70 @@
+# FastAPI + server
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.19
+sse-starlette==2.2.1
+
+# LangChain ecosystem
+langchain==0.3.14
+langchain-core==0.3.29
+langchain-community==0.3.14
+langchain-openai==0.2.14
+langchain-ollama==0.2.2
+
+# Database
+sqlalchemy[asyncio]==2.0.36
+asyncpg==0.30.0
+alembic==1.14.1
+psycopg2-binary==2.9.10
+
+# Redis
+redis==5.2.1
+
+# Milvus
+pymilvus==2.5.0
+
+# AWS
+boto3==1.35.81
+botocore==1.35.81
+
+# Auth
+pyjwt==2.10.1
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.2.1
+
+# HTTP client
+httpx==0.28.1
+aiohttp==3.11.11
+
+# Validation & serialization
+pydantic==2.10.4
+pydantic-settings==2.7.1
+
+# Token counting
+tiktoken==0.8.0
+
+# Document parsing
+pdfplumber==0.11.4
+python-docx==1.1.2
+python-pptx==1.0.2
+openpyxl==3.1.5
+Pillow==11.0.0
+pytesseract==0.3.13
+
+# Monitoring
+prometheus-client==0.21.1
+prometheus-fastapi-instrumentator==7.0.1
+
+# Scheduler
+apscheduler==3.11.0
+
+# Utils
+python-dotenv==1.0.1
+tenacity==9.0.0
+loguru==0.7.3
+
+# Dev & test
+pytest==8.3.4
+pytest-asyncio==0.25.0
+httpx==0.28.1

@@ -1,0 +1,6 @@
+Aggregate the following user profile data from multiple sessions into a single unified profile.
+
+Profile data:
+{profiles}
+
+Unified profile (under {max_characters} chars):
