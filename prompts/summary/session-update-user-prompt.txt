@@ -1,0 +1,9 @@
+Update the existing session summary with the new conversation chunk.
+
+Existing summary:
+{existing_summary}
+
+New conversation:
+{new_messages}
+
+Updated summary (preserve existing content, add new key points):

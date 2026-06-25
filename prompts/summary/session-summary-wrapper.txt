@@ -1,0 +1,6 @@
+Please summarize the following conversation chunk. Focus on the key points and decisions made.
+
+Conversation:
+{conversation_chunk}
+
+Summary (keep under {max_characters} chars):
