@@ -1,0 +1,9 @@
+You are a user profiler. Based on the following conversation summaries, create a concise user profile.
+
+Include:
+- User's technical skill level
+- Common topics of interest
+- Preferred communication style
+- Any recurring needs or patterns
+
+Keep the profile under {max_characters} characters.
